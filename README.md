@@ -1,3 +1,3 @@
 # apnamitcollege
 this is my therd repository
-Aurthor abhi kumar
+Aurthor abhi (apnamitcollege)
